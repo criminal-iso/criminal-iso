@@ -1,26 +1,27 @@
-# Hi, I'm CRIMINAL! 👋🔥
+<div align="center">
 
-## About me
+# 👋 Hey, I'm CRIMINAL
 
-- 💻 Full Stack Developer & FiveM/RedM Specialist
-- 🚀 Building premium scripts, modern UI/UX and gaming systems
-- 🎮 Passionate about FiveM, Tebex and immersive roleplay servers
-- 🌍 Always learning new technologies and improving my skills
-- ⚡ Specialized in React, Vue, Lua, Node.js & Linux servers
+### 💻 Full Stack Developer • FiveM/RedM Specialist • UI/UX Designer
 
-## Connect with me
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=E65900&center=true&vCenter=true&width=700&lines=Premium+FiveM+%26+RedM+Developer;Modern+UI%2FUX+Designer;Tebex+%26+Gaming+Systems+Creator;Server+Infrastructure+%26+Optimization" />
 
-[![Discord](https://img.shields.io/badge/Discord-CRIMINAL-5865F2?style=for-the-badge&logo=discord&logoColor=white)](iso.criminal)
-[![GitHub](https://img.shields.io/badge/GitHub-CRIMINAL-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/criminal-iso)
+<br>
 
-## Languages & Tools
+[![Discord](https://img.shields.io/badge/Discord-CRIMINAL-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-CRIMINAL-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=CRIMINAL&color=e65900&style=for-the-badge)](https://github.com/)
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,lua,php,mysql,linux,html,css,tailwind,vscode,git" />
-</p>
+</div>
 
-## GitHub Stats
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CRIMINAL&show_icons=true&theme=tokyonight)
+# 🚀 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRIMINAL&layout=compact&theme=tokyonight)
+```yaml
+Name: CRIMINAL
+Role: Full Stack Developer
+Speciality: FiveM / RedM Development
+Focus: Premium Gaming Experiences
+Languages: JavaScript, TypeScript, Lua, PHP
+Currently Learning: Advanced Backend Architectures
