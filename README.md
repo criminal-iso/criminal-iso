@@ -10,6 +10,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-CRIMINAL-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-CRIMINAL-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayeb%20Goujane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayeb-goujane/)
 [![Profile Views](https://komarev.com/ghpvc/?username=CRIMINAL&color=e65900&style=for-the-badge)](https://github.com/)
 
 </div>
