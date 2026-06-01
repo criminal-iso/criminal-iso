@@ -20,7 +20,7 @@
 # 🚀 About Me
 
 ```yaml
-Name: CRIMINAL
+Name: Tayeb Goujane Aka ( CRIMINAL )
 Role: Full Stack Developer
 Speciality: FiveM / RedM Development
 Focus: Premium Gaming Experiences
